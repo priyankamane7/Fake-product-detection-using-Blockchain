@@ -20,7 +20,7 @@ Ganache (for local Ethereum blockchain simulation)
 Setup and Installation
 
 Clone the Repository use following 
-github.com/priyankamane7/Fake-product-detection-using-Blockchain.git
+https://github.com/priyankamane7/Fake-product-detection-using-Blockchain.git
 cd Fake-Product-Identification
 
 Install Dependencies
